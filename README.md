@@ -26,12 +26,12 @@
    
      <form action="https:" style="text-align: right;"> <input type="Search" placeholder="Type to search" id="search-bar"><button>search</button> </form>
   </nav>
-      </form>
+      
   <h2 style="font-size: 40px;">Your Partner <br>in aid of a house</h2>
   
   
 
-</section>
+
     <section id="about">
       <h2>About Us</h2>
    
